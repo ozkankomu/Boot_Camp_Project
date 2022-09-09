@@ -96,6 +96,7 @@
 
 section#instructors .card {
   transition: transform 0.5s;
+  cursor: pointer;
 }
 section#instructors .card:hover {
   transform: scale(1.05);
