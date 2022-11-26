@@ -42,7 +42,7 @@ Boot Camp Project
 
 ## Screenshot
 
-<a href="https://ozkankomu.github.io/Boot_Camp_Project/"><img src="parallax.gif"></a>
+<a href="https://ozkankomu.github.io/Boot_Camp_Project/"><img src="screen.gif"></a>
 
 ## Links
 <hr>
